@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=winecfg
+GenericName=Wine config
+Icon=wine
+Name=Winecfg
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+ 
