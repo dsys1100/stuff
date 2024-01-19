@@ -4,6 +4,12 @@
 
 ## Some scripts from Github Gist
 
+#### Install Wine to KDE Neon (Ubuntu 22.04)
+https://gist.github.com/dsys1100/1fca754ac790e1f86e0335a79d1a94b5
+```
+wget -O 1.sh goo.su/PGCeE4u && chmod +x 1.sh && ./1.sh
+```
+
 #### Install minimal KDE + gdebi,neofetch to Debian
 https://gist.github.com/dsys1100/20a03ee35709957df0c1a2abd83a2540
 ```
