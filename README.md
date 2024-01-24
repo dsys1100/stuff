@@ -7,7 +7,7 @@
 #### Install VMWare Workstation to KDE Neon (Ubuntu 22.04)
 https://gist.github.com/dsys1100/9dab31df3f36d9793f102ddd4cb7a92c
 ```
-wget -O 1.sh goo.su/k424 && chmod +x 1.sh && ./1.sh
+wget -O 1.sh goo.su/f25eWf && chmod +x 1.sh && ./1.sh
 ```
 
 #### Install Docker+Portrainer to KDE Neon (Ubuntu 22.04)
