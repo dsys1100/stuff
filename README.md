@@ -1,5 +1,5 @@
 ## Some stuff
-[Firefox oneliner mod](https://github.com/dsys1100/OnelineProton_mod) ; [Prebuilded KDE Lightly](https://github.com/dsys1100/stuff/tree/main/KDE_Lightly) ; [insert text](https://google.com)
+[Firefox oneliner mod](https://github.com/dsys1100/OnelineProton_mod) ; [Prebuilded KDE Lightly](https://github.com/dsys1100/stuff/tree/main/KDE_Lightly) ; [Edited KDE Willow](https://github.com/dsys1100/stuff/tree/main/KDE_Willow) ; [insert text](https://google.com)
 
 
 ## Some scripts from Github Gist
