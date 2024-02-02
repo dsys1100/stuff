@@ -4,6 +4,12 @@
 
 ## Some scripts from Github Gist
 
+#### Remove all snaps and replace Firefox and GnomeSoftware to normal version (Ubuntu+Gnome)
+https://gist.github.com/dsys1100/39dc69a91fc477102c7c564b9f580dd5
+```
+wget -O 1.sh goo.su/V4rwc && chmod +x 1.sh && ./1.sh
+```
+
 #### Install VMWare Workstation to KDE Neon (Ubuntu 22.04)
 https://gist.github.com/dsys1100/9dab31df3f36d9793f102ddd4cb7a92c
 ```
