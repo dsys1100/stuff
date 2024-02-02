@@ -13,7 +13,7 @@ wget -O 1.sh goo.su/V4rwc && chmod +x 1.sh && ./1.sh && rm 1.sh
 #### Enable 6G zRAM
 https://gist.github.com/dsys1100/cc47ca299e231e0645eab6c5aa1e4bfb
 ```
-wget -O 1.sh goo.su/3nBhgE && chmod +x 1.sh && ./1.sh && rm 1.sh
+wget -O 1.sh goo.su/t5BaU && chmod +x 1.sh && ./1.sh && rm 1.sh
 ```
 
 #### Install VMWare Workstation to KDE Neon (Ubuntu 22.04)
