@@ -4,10 +4,10 @@
 
 ## Some scripts from Github Gist
 
-#### Remove all snaps and replace Firefox and GnomeSoftware to normal version (Ubuntu+Gnome)
+#### Remove all snaps and snapd and replace Firefox to normal version (Ubuntu+Gnome)
 https://gist.github.com/dsys1100/39dc69a91fc477102c7c564b9f580dd5
 ```
-wget -O 1.sh goo.su/V4rwc && chmod +x 1.sh && ./1.sh && rm 1.sh
+wget -O 1.sh goo.su/gULU && chmod +x 1.sh && ./1.sh && rm 1.sh
 ```
 
 #### Enable 6G zRAM
