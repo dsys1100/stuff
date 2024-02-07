@@ -4,6 +4,12 @@
 
 ## Some scripts from Github Gist
 
+#### Install OpenBox,kvm,virt-manager and launch OB
+https://gist.github.com/dsys1100/79888f54fd0ca656007fb984c4cebd09
+```
+wget -O 1.sh goo.su/1QrUK && chmod +x 1.sh && ./1.sh && rm 1.sh
+```
+
 #### Remove all snaps and snapd and replace Firefox to normal version (Ubuntu)
 https://gist.github.com/dsys1100/39dc69a91fc477102c7c564b9f580dd5
 ```
