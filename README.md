@@ -26,7 +26,7 @@ wget goo.su/VEGjU -O - | bash
 
 #### Install Docker+Distrobox+GUI in deb-based
 ```
-wget goo.su/Y7m88 -O - | bash
+wget goo.su/EYWQ -O - | bash
 ```
 
 #### Enable 6G zRAM
