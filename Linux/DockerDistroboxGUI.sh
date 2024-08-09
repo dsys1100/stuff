@@ -7,4 +7,4 @@ cd BoxBuddy-*/
 cd /tmp/
 rm -r BoxBuddy*
 
-echo Logoff required for update icons(
+echo "Logoff required for update icons ("
