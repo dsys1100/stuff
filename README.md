@@ -4,6 +4,11 @@
 
 ## Some scripts for Linux
 
+#### VMWare Graphics fix deb-based
+```
+wget goo.su/Cfrf -O - | bash
+```
+
 #### Install pmbootstrap
 ```
 wget goo.su/aLnOeuQ -O - | bash
@@ -12,6 +17,11 @@ wget goo.su/aLnOeuQ -O - | bash
 #### Remove all snaps and snapd and replace Firefox to normal version
 ```
 wget goo.su/G3X7 -O - | bash
+```
+
+#### Remove all snaps and snapd and replace Firefox to normal version (ESR)
+```
+wget goo.su/VEGjU -O - | bash
 ```
 
 #### Enable 6G zRAM
