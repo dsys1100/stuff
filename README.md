@@ -24,6 +24,11 @@ wget goo.su/G3X7 -O - | bash
 wget goo.su/VEGjU -O - | bash
 ```
 
+#### Install Docker+Distrobox+GUI in deb-based
+```
+wget goo.su/Y7m88 -O - | bash
+```
+
 #### Enable 6G zRAM
 ```
 wget goo.su/3yswzNm -O - | bash
