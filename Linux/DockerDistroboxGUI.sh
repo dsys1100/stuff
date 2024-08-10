@@ -14,7 +14,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo usermod -aG docker $USER
 sudo systemctl enable docker.service
 sudo systemctl enable containerd.service
-sudo apt install distrobox -y
+sudo apt install libadwaita-1-0 distrobox -y
 cd /tmp/
 URL=$(curl -v https://api.github.com/repos/Dvlv/BoxBuddyRS/releases/latest 2>&1 | grep -v ant | grep browser_download_url | grep -v .asc | cut -d '"' -f 4) && wget $URL && ZIP="$(find . -maxdepth 1 -name "BoxBuddy-*.zip")" && unzip -qq $ZIP
 cd BoxBuddy-*/
