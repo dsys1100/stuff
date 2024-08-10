@@ -29,6 +29,11 @@ wget goo.su/VEGjU -O - | bash
 wget goo.su/EYWQ -O - | bash
 ```
 
+#### Install VMWare Workstation 17.5.2 in deb-based
+```
+wget goo.su/HkP2 -O - | bash
+```
+
 #### Enable 6G zRAM
 ```
 wget goo.su/3yswzNm -O - | bash
