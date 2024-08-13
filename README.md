@@ -9,6 +9,11 @@
 wget goo.su/Cfrf -O - | bash
 ```
 
+#### VMWare Shared folder in /media/host-shared (deb)
+```
+wget goo.su/cLE8 -O - | bash
+```
+
 #### Install pmbootstrap
 ```
 wget goo.su/aLnOeuQ -O - | bash
@@ -69,7 +74,7 @@ wget goo.su/qKjO -O - | bash
 wget goo.su/YOXna0 -O - | bash
 ```
 
-#### Sudo Dolphin script
+#### Sudo Dolphin shortcut
 ```
 wget goo.su/Msz9U -O - | bash
 ```

