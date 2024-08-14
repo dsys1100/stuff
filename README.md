@@ -4,12 +4,12 @@
 
 ## Some scripts for Linux (deb-based)
 
-#### (Fox VM) VMWare Graphics fix
+#### (For VM) VMWare Graphics fix
 ```
 wget goo.su/Cfrf -O - | bash
 ```
 
-#### (Fox VM) VMWare Shared folder in /media/host-shared
+#### (For VM) VMWare Shared folder in /media/host-shared
 ```
 wget goo.su/cLE8 -O - | bash
 ```
