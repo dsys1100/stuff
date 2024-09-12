@@ -10,3 +10,4 @@ sudo ./VMware-Workstation-17.6.0-24238078.x86_64.bundle
 sudo vmware-modconfig --console --install-all
 cd /tmp/
 rm -rf vmw
+sudo /usr/lib/vmware/bin/vmware-setup-helper -e -o -u yes -c no
