@@ -39,7 +39,7 @@ wget goo.su/kzZkm -O - | bash
 wget goo.su/aLnOeuQ -O - | bash
 ```
 
-#### Install VMWare Workstation 17.5.2
+#### Install VMWare Workstation
 ```
 wget goo.su/HkP2 -O - | bash
 ```
