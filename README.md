@@ -3,6 +3,8 @@
 
 
 ## Some scripts for Linux (deb-based)
+*= It is assumed that you already have a user added to sudoers. Script runs as a normal user.  
+( ```apt update && apt install sudo && usermod -aG sudo UsErNaMe``` )
 
 #### (For VM) VMWare Graphics fix
 ```
@@ -82,6 +84,15 @@ wget goo.su/YOXna0 -O - | bash
 #### Update Debian 11 to Debian 12
 ```
 wget goo.su/b7jq -O - | bash
+```
+
+#### Install Openbox, kitty and mc, without login manager *
+```
+wget goo.su/isVO1 -O - | bash
+```
+And configs for that:
+```
+wget goo.su/WsQocO -O - | bash
 ```
 
 
