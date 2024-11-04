@@ -1,0 +1,100 @@
+Android Q Beta 2 QPP2.190228.021
+Android Q Beta 3 QPP3.190404.015
+Android Q Beta 4 QPP4.190502.018
+Android Q Beta 5 QPP5.190530.014
+
+11 Developer Preview 1.1 patch RPP1.200123.020
+11 Developer Preview 2 (RPP2.200227.009)
+11 Developer Preview 3 (RPP3.200320.017)
+Android 11 Beta 1 (RPB1.200504.018)
+Android 11 Beta 1.5 patch RPB1.200504.020
+11 Beta 2 (RPB2.200611.009)
+11 Beta 2.5 patch (RPB2.200611.012)
+11 Beta 3 (RPB3.200720.005)
+
+12 Developer Preview 2 (SPP2.210219.008)
+Android 12 Developer Preview 2.1 patch SPP2.210219.008.A1
+12 Developer Preview 3 (DP3) SPP3.210325.010
+Android 12 Beta 1 (SPB1.210331.013)
+12 Beta 2 (SPB2.210513.007)
+Android 12 Beta 2.1 patch SPB2.210513.011
+12 Beta 3 (SPB3.210618.013)
+12 Beta 4 (SPB4.210715.011)
+12 Beta 4.1 patch SPB4.210715.014
+12 Beta 5 (SPB5.210812.002)
+
+12? SP2A.220305.012
+
+12.1? Beta 1 (S3B1.220218.004)
+Android 12 QPR3. Beta 2 (S3B1.220318.003)
+
+Android 12L Beta 1 (S2B1.211112.006)
+12L. Beta 3 (S2B3.220205.007.A1)
+
+13 Developer Preview 2 (TPP2.220218.010)
+Android 13 Beta 2 (TPBB.220414.015)
+Android 13 Beta 2.1 update T2B2.221216.008
+(???) Android 13 Beta 3.1 update (TPB3.220513.017.B1)
+Android 13 Beta 3.1 patch (T2B3.230109.004)
+Android 13 Beta 3.2 update (TPB3.220610.004)
+Android 13 Beta 3.3 patch (TPB3.220617.002)
+13 Beta 4 (TPB4.220624.005)
+Android 13 Beta 4.1 patch (TPB4.220624.008)
+Android 13 QPR1 Beta 1 (T1B1.220819.006, T1B1.220819.007 (Pixel 6a only))
+Android 13 QPR1 Beta 2 (T1B2.220916.004)
+Android 13 QPR1 Beta 3 (T1B3.221003.003)
+Android 13 QPR1 Beta 3.1 patch (T1B3.221003.008)
+Android 13 QPR2 Beta 1 (T2B1.221118.006)
+Android 13 QPR2 Beta 2 (T2B2.221216.006)
+Android 13 QPR2 Beta 3 (T2B3.230109.002)
+Android 13 QPR3 Beta 1 (T3B1.230224.005)
+Android 13 QPR3 Beta 2 (T3B2.230316.003)
+Android 13 QPR3 Beta 2.1 patch (T3B2.230316.005)
+
+14  Developer Preview 2 (UPP2.230217.004)
+Android 14 Beta 1.1 patch (UPB1.230309.017/.A1)
+Android 14 Beta 2 (UPB2.230407.014/.A1)
+Android 14 Beta 2.1 patch UPB2.230407.019
+Android 14 Beta 3 (UPB3.230519.008)
+Android 14 Beta 3.1 patch (UPB3.230519.014)
+Android 14 Beta 4 (UPB4.230623.005)
+Android 14 Beta 5 (UPB5.230623.003/.A1)
+Android 14 Beta 5.1 patch (UPB5.230623.005/.A1)
+Android 14 Beta 5.2 patch (UPB5.230623.006/A1)
+Android 14 Beta 5.3 patch (UPB5.230623.009)
+
+Android 14 QPR1 Beta 1 (U1B1.230908.003)
+Android 14 QPR1 Beta 2 (U1B2.230922.006)
+Android 14 QPR1 Beta 2.2 patch (U1B2.230922.013)
+Android 14 QPR2 Beta 1 (AP11.231020.013/.013.A1/.014)
+Android 14 QPR2 Beta 1.1 (AP11.231020.016/AP11.231020.016.A1)
+Android 14 QPR2 Beta 2 (AP11.231117.006)
+Android 14 QPR2 Beta 3 (AP11.231215.007)
+Android 14 QPR2 Beta 3.1 patch (AP11.231215.009)
+Android 14 QPR2 Beta 3.2 patch (AP11.231215.010)
+android 14 QPR2 AP11.231215.009
+Android 14 QPR3 Beta 1 (AP21.240119.009)
+Android 14 QPR3 Beta 2 (AP21.240216.010)
+Android 14 QPR3 Beta 2.1 (AP21.240305.005)
+Android 14 QPR3 Beta 2.2 (AP21.240305.006)
+android 14 QPR3 240605.024
+
+Android 15 DP1 (AP31.240119.016)
+Android 15 DP2 (AP31.240223.016.A3)
+
+Android 15 Beta 1 (AP31.240322.018)
+Android 15 Beta 1.1 patch (AP31.240322.023)
+Android 15 Beta 2 (AP31.240426.022)
+Android 15 Beta 2.1 (AP31.240426.023)
+Android 15 Beta 2.2 (AP31.240426.023.B4)
+Android 15 Beta 3 (AP31.240517.022)
+Android 15 Beta 3.1 (AP31.240517.031)
+Android 15 Beta 4 (AP31.240617.009)
+Android 15 Beta 4.1 (AP31.240617.010)
+Android 15 Beta 4.2 (AP31.240617.015)
+Android 15 QPR1 Beta 1 (AP41.240726.009)
+Android 15 QPR1 Beta 1.1 (AP41.240726.010)
+Android 15 QPR1 Beta 2 (AP41.240823.009)
+Android 15 QPR1 Beta 3 (AP41.240925.009)
+Android 14 QPR3 Beta 1 (AP21.240119.009)
+Android 14 QPR3 Beta 2 (AP21.240216.010/AP21.240305.005)
