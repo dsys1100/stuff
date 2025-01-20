@@ -16,12 +16,17 @@ wget goo.su/Cfrf -O - | bash
 wget goo.su/cLE8 -O - | bash
 ```
 
-#### Remove all snaps and snapd and replace Firefox to normal version
+#### MicroDesnap / Remove all snaps and snapd / SystemD
+```
+wget goo.su/RMHd -O - | bash
+```
+
+#### Desnap / Remove all snaps&snapd and replace Firefox to normal version
 ```
 wget goo.su/G3X7 -O - | bash
 ```
 
-#### Remove all snaps and snapd and replace Firefox to normal version (ESR)
+#### DesnapESR / Remove all snaps&snapd and replace Firefox to normal version (ESR)
 ```
 wget goo.su/VEGjU -O - | bash
 ```
@@ -36,17 +41,12 @@ wget goo.su/3yswzNm -O - | bash
 wget goo.su/kzZkm -O - | bash
 ```
 
-#### Install pmbootstrap
-```
-wget goo.su/aLnOeuQ -O - | bash
-```
-
 #### Install VMWare Workstation
 ```
 wget goo.su/HkP2 -O - | bash
 ```
 
-#### Install Docker+Portrainer
+#### Install Docker+Portainer
 ```
 wget goo.su/aULEvD -O - | bash
 ```
@@ -99,6 +99,11 @@ wget goo.su/WsQocO -O - | bash
 
 ### Old / Unused
 
+
+#### Install pmbootstrap
+```
+wget goo.su/aLnOeuQ -O - | bash
+```
 
 #### Install Docker+Distrobox+GUI in deb-based
 ```
