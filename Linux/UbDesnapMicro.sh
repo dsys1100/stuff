@@ -24,3 +24,6 @@ Pin: release o=LP-PPA-mozillateam
 Pin-Priority: 1001
 ' | sudo tee /etc/apt/preferences.d/mozilla-firefox.pref
 sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove -y
+echo " "
+echo " "
+echo "All done!"

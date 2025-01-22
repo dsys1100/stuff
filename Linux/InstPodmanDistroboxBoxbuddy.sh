@@ -8,5 +8,6 @@ cd BoxBuddy-*/
 ./install.sh
 cd /tmp/
 rm -r BoxBuddy*
-echo ""
-echo "Logoff/reboot required for configure all ("
+echo " "
+echo " "
+echo "All done! Logoff/reboot required for configure all ("
