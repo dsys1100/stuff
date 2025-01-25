@@ -51,7 +51,7 @@ wget goo.su/LkOR -O - | sh
 wget goo.su/ir59n4 -O - | sh
 ```
 
-#### Install Wine
+#### Install Wine in Ubuntu
 ```
 wget goo.su/DvgNCbg -O - | sh
 ```
@@ -88,4 +88,9 @@ wget goo.su/WsQocO -O - | sh
 #### Install minimal KDE in Alpine *
 ```
 wget goo.su/NO7eB -O - | sh
+```
+
+#### Fix Unmanaged Network
+```
+wget goo.su/ZmNzqV -O - | sh
 ```
