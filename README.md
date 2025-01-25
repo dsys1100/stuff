@@ -3,7 +3,7 @@
 
 
 ## Some scripts for Linux (deb-based)
-Most scripts are run as a normal user with sudo. The "*" indicates scripts run as root user or "wget bla-bla | **sudo sh**".  
+Most scripts are run as a normal user with sudo. The "*" indicates scripts run as root user or "wget ... | **sudo sh**".  
 ( ```apt update && apt install sudo && usermod -aG sudo UsErNaMe``` )
 
 #### (For VM) VMWare Graphics fix
@@ -73,7 +73,7 @@ wget goo.su/eTWkO -O - | sh
 
 #### Update Debian 11,12 to Debian 13 *
 ```
-wget goo.su/2M8ybM -O - | sh
+wget goo.su/9Ds4R -O - | sh
 ```
 
 #### Install Openbox, kitty and mc, without login manager *
