@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "" > /etc/network/interfaces
 apt update && apt full-upgrade -y && apt autoremove -y
 apt install kde-plasma-desktop plasma-nm ark gdebi neofetch nano curl wget -y
 echo " "
