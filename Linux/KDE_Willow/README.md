@@ -1,6 +1,7 @@
 #### Lightly Application Style
-Prebuilt [This](https://github.com/Luwx/Lightly) in KDE Neon for Willow theme. Copy /usr contents to /usr
-
+Copy /usr contents to /usr  
+Prebuilt [boehs/Lightly](https://github.com/boehs/Lightly) (QT5) in Kubuntu 24.04 for Willow theme.  
+Prebuilt [Bali10050/Darkly](https://github.com/Bali10050/Darkly) (QT6) in KDE Neon for Willow theme.
 #### Whiten titlebar (gray to white)
 ![](https://github.com/dsys1100/stuff/blob/main/Linux/KDE_Willow/Screenshot.png)
 ```
