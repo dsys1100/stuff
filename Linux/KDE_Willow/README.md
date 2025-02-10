@@ -1,5 +1,22 @@
-#### Lightly Application Style
-Copy /usr contents to /usr  
+#### Archive of Willow stuff
+Install Willow QT5
+```
+wget goo.su/fxfhzeO -O - | sh
+```
+Install Willow QT6
+```
+wget goo.su/wek7d -O - | sh
+```
+Install Lightly QT5
+```
+wget goo.su/Si8lbg -O - | sh
+```
+Install Lightly QT6
+```
+wget goo.su/V0rwQz -O - | sh
+```
+
+
 Prebuilt [boehs/Lightly](https://github.com/boehs/Lightly) (QT5) in Kubuntu 24.04 for Willow theme.  
 Prebuilt [Bali10050/Darkly](https://github.com/Bali10050/Darkly) (QT6) in KDE Neon for Willow theme.
 #### Whiten titlebar (gray to white)
