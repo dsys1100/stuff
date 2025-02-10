@@ -3,6 +3,7 @@
 
 
 ## Some scripts for Linux (deb-based)
+Most scripts tested in Ubuntu 24.04/22.04
 Most scripts are run as a normal user with sudo. The "*" indicates scripts run as root user or "wget ... | **sudo sh**".  
 ( ```apt update && apt install sudo && usermod -aG sudo UsErNaMe``` )
 
@@ -31,9 +32,19 @@ wget goo.su/yzPOBRA -O - | sh
 wget goo.su/f04ZX -O - | sh
 ```
 
-#### Enable 6G zRAM *
+#### Install minimal KDE + gdebi,neofetch *
 ```
-wget goo.su/PYn6Ey -O - | sh
+wget goo.su/Dd7X -O - | sh
+```
+
+#### Install minimal Gnome + gdebi,neofetch,gnome-tweaks,menulibre *
+```
+wget goo.su/sKR1 -O - | sh
+```
+
+#### Enable 75% zRAM
+```
+wget goo.su/U6voMr -O - | sh
 ```
 
 #### Install Podman+Distrobox+Boxbuddy (GUI)
@@ -56,16 +67,6 @@ wget goo.su/ir59n4 -O - | sh
 wget goo.su/DvgNCbg -O - | sh
 ```
 
-#### Install minimal KDE + gdebi,neofetch *
-```
-wget goo.su/Dd7X -O - | sh
-```
-
-#### Install minimal Gnome + gdebi,neofetch,gnome-tweaks,menulibre *
-```
-wget goo.su/sKR1 -O - | sh
-```
-
 #### Sudo Dolphin shortcut
 ```
 wget goo.su/eTWkO -O - | sh
@@ -76,9 +77,9 @@ wget goo.su/eTWkO -O - | sh
 wget goo.su/9Ds4R -O - | sh
 ```
 
-#### Install Openbox, kitty and mc, without login manager *
+#### Install Openbox, kitty and mc, without login manager
 ```
-wget goo.su/qKwr -O - | sh
+wget goo.su/dcZiyK -O - | sh
 ```
 And configs for that:
 ```
@@ -93,4 +94,9 @@ wget goo.su/NO7eB -O - | sh
 #### Fix Unmanaged Network
 ```
 wget goo.su/ZmNzqV -O - | sh
+```
+
+#### Install full Gnome 41 in Ubuntu 20.04 + gdebi,neofetch,gnome-tweaks,menulibre *
+```
+wget goo.su/j8Te -O - | sh
 ```
