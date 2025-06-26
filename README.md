@@ -77,7 +77,7 @@ wget goo.su/eTWkO -O - | sh
 wget goo.su/9Ds4R -O - | sh
 ```
 
-#### Install Openbox, kitty and mc, without login manager
+#### Install Openbox, xfce4terminal, thunar, without login manager
 ```
 wget goo.su/dcZiyK -O - | sh
 ```
