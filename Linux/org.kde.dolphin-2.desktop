@@ -1,22 +1,9 @@
 [Desktop Entry]
-Comment=
-Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dolphin
-GenericName=File Manager as root
-Icon=system-file-manager
-InitialPreference=10
-Keywords=sudo dolphin;
-MimeType=inode/directory;
 Name=Dolphin (Admin)
-NoDisplay=false
-Path=
-StartupNotify=true
-StartupWMClass=dolphin
-Terminal=true
-TerminalOptions=
-Categories=System;
+Comment=Browse files as administrator
+Exec=dolphin admin:///
+Icon=system-file-manager
+Terminal=false
 Type=Application
-X-DBUS-ServiceName=org.kde.dolphin
-X-DocPath=dolphin/index.html
-X-KDE-Shortcuts=
-X-KDE-SubstituteUID=false
-X-KDE-Username=
+Categories=System;Utility;FileManager;
+StartupNotify=true
