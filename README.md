@@ -30,6 +30,11 @@ MicroDesnap / Remove all snaps and snapd / SystemD
 wget goo.su/9bn2y -O - | sh
 ```
 
+Add Mozilla PPA and install Firefox
+```
+wget goo.su/vBoqMw -O - | sh
+```
+
 Desnap / Remove all snaps&snapd and replace Firefox to normal version
 ```
 wget goo.su/yzPOBRA -O - | sh
@@ -53,6 +58,11 @@ wget goo.su/sKR1 -O - | sh
 Enable 75% zRAM
 ```
 wget goo.su/U6voMr -O - | sh
+```
+
+Install Thorium Browser (SSE3 ver)
+```
+wget goo.su/Gv0sv -O - | sh
 ```
 
 Install Podman+Distrobox+Boxbuddy (GUI)
@@ -111,9 +121,14 @@ wget goo.su/j8Te -O - | sh
 
 ### Alpine
 
-Install minimal KDE in Alpine *
+Install minimal KDE in Alpine *, no Xserver on 3.22+
 ```
 wget goo.su/NO7eB -O - | sh
+```
+
+Install Docker in Alpine *
+```
+wget goo.su/228Kn -O - | sh
 ```
 
 ### Arch
