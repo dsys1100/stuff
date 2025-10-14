@@ -7,7 +7,7 @@ Most scripts are run as a normal user with sudo. The "*" indicates scripts run a
 
 ### All distros
 
-myip Binary (curl recuired)
+myip Binary
 ```
 wget goo.su/izur9 -O - | sh
 ```
