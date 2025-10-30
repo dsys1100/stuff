@@ -133,7 +133,11 @@ wget goo.su/228Kn -O - | sh
 
 ### Arch
 
-Install Chaotic AUR
+Install Chaotic AUR and yay
 ```
-wget goo.su/K0Ya -O - | sh
+wget goo.su/uVaa6T -O - | sh
+```
+and configs for yay:
+```
+wget goo.su/AV8Qw -O - | sh
 ```
