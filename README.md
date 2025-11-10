@@ -141,3 +141,10 @@ and configs for yay:
 ```
 wget goo.su/AV8Qw -O - | sh
 ```
+
+### Device-specific stuff
+
+Color profile for Lenovo B570e and his crap display (LP156WH4-TLN1). Created in DisplayCAL **without colorimeter**
+```
+sudo wget goo.su/L42ca -O /usr/share/c.icc
+```
