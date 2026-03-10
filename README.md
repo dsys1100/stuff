@@ -45,12 +45,12 @@ DesnapESR / Remove all snaps&snapd and replace Firefox to normal version (ESR)
 wget goo.su/f04ZX -O - | sh
 ```
 
-Install minimal KDE + gdebi,neofetch *
+Install minimal KDE + flatpak *
 ```
 wget goo.su/Dd7X -O - | sh
 ```
 
-Install minimal Gnome + gdebi,neofetch,gnome-tweaks,menulibre *
+Install minimal Gnome + flatpak,gnome-extensions,gnome-tweaks,menulibre *
 ```
 wget goo.su/sKR1 -O - | sh
 ```
@@ -58,6 +58,11 @@ wget goo.su/sKR1 -O - | sh
 Enable 75% zRAM
 ```
 wget goo.su/U6voMr -O - | sh
+```
+
+Install Helium Browser
+```
+wget goo.su/SN6b -O - | sh
 ```
 
 Install Thorium Browser (SSE3 ver)
@@ -95,11 +100,6 @@ Sudo Dolphin shortcut
 wget goo.su/eTWkO -O - | sh
 ```
 
-Update Debian 11,12 to Debian 13 *
-```
-wget goo.su/9Ds4R -O - | sh
-```
-
 Install Openbox, xfce4terminal, thunar, without login manager
 ```
 wget goo.su/dcZiyK -O - | sh
@@ -124,11 +124,6 @@ wget goo.su/j8Te -O - | sh
 Install minimal KDE in Alpine *, no Xserver on 3.22+
 ```
 wget goo.su/NO7eB -O - | sh
-```
-
-Install Docker in Alpine *
-```
-wget goo.su/228Kn -O - | sh
 ```
 
 ### Arch
