@@ -60,6 +60,11 @@ Enable 75% zRAM
 wget goo.su/U6voMr -O - | sh
 ```
 
+Fix Chromium apps, blocked by AppArmor
+```
+wget goo.su/dUZz5Z -O - | sh
+```
+
 Install Helium Browser
 ```
 wget goo.su/SN6b -O - | sh
