@@ -142,6 +142,13 @@ and configs for yay:
 wget goo.su/AV8Qw -O - | sh
 ```
 
+### Termux
+
+Postinstall Script
+```
+curl -sSL goo.su/opLf0 | sh
+```
+
 ### Device-specific stuff
 
 Color profile for Lenovo B570e and his crap display (LP156WH4-TLN1). Created in DisplayCAL **without colorimeter**
